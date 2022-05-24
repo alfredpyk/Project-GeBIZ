@@ -23,11 +23,11 @@ Use of UiPath-Studio:
 - In-built Data Scraping Tool
 ## Documents
 Various documents come with project:
-- This README.md
-- UiPath Studio Prototype main.xaml and its other workfiles
-- Updated Weekly Project Progression Reports
-- "Project1 (GeBIZ) Report - Magascar 20220524.docx" (includes Process Definition and Solution Design)
-- Video-Demo
+1. This README.md
+2. UiPath Studio Prototype main.xaml and its other workfiles
+3. Updated Weekly Project Progression Reports
+4. "Project1 (GeBIZ) Report - Magascar 20220524.docx" (includes Process Definition and Solution Design)
+5. Video-Demo
 
 (These document could be found in both the assets directory and designated Google-Shared drive)
 ## Remarks
