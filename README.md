@@ -24,9 +24,11 @@ Use of UiPath-Studio:
 ## Documents
 Various documents come with project:
 - This README.md
-- Project Progression Reports (weekly)
-- PDD (Process Definition Document)
-- SDD (Solution Definition Document)
+- UiPath Studio Prototype main.xaml and its other workfiles
+- Updated Weekly Project Progression Reports
+- "Project1 (GeBIZ) Report - Magascar 20220524.docx" (includes Process Definition and Solution Design)
+- Video-Demo
+
 (These document could be found in both the assets directory and designated Google-Shared drive)
 ## Remarks
 On such project/job, on average last about 5 days and costing between S$1,500 - 2,000.
