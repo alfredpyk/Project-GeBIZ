@@ -1,5 +1,5 @@
 # Madagascar - GeBIZ Project
-<img src="https://3.bp.blogspot.com/-wGwdudzUIsY/WxkIgIiP53I/AAAAAAAA_tw/15IgqIXebY8csYMH28CmHhZ9a9sYGncfwCLcBGAs/s1600/kingjlien1.jpg" align="left" width="200px"/>
+<img src="assets\Madagascar(0.5).jpg" align="left" width="200px"/>
 (RACE SCT-11 Mini-project-1: team members: Laurent Biale, Roseline and AlfredP)
 <br clear="left"/>
 Extraction of Opportunities and creation of a knowledgebase from GeBIZ
