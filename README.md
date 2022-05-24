@@ -1,6 +1,6 @@
 # Madagascar - GeBIZ Project
 <img src="assets\Madagascar(0.5).jpg" align="left" width="200px"/>
-(RACE SCT-11 Mini-project-1: team members: Laurent Biale, Roseline and AlfredP)
+RACE SCT-11 Mini-project-1: team members: Laurent Jean-Claude Biale, Roseline Ruba Durairaj and Pang Yan Kiat (AlfredP)
 <br clear="left"/>
 Extraction of Opportunities and creation of a knowledgebase from GeBIZ
 
