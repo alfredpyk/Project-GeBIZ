@@ -1,7 +1,7 @@
 {
   "name": "Project-GeBIZ",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "xxMain.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.Mail.Activities": "[1.15.1]",
@@ -45,8 +45,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "2c66e3c2-3d23-4396-907b-70d9d0f57b1d",
+      "filePath": "xxMain.xaml",
+      "uniqueId": "e2e6b7fa-4d91-4838-a8b7-0eadb5a189db",
       "input": [],
       "output": []
     }
