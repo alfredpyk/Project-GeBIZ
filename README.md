@@ -118,14 +118,11 @@ _Instruction installing and setting up your app._
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## StoryBoard
+Raw ideas on the What’s and How’s Opportunities-Lead (on weekly basis) has a range of scopes (keywords-HDB, Green, Security, etc.) to search through:
+_For more details, please refer to the [Project Report - Madagascar](https://github.com/alfredpyk/Project-GeBIZ)_
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-![GeBIZ Opportunities](images/StoryBoard.jpg)
-
+![StoryBoard](images/StoryBoard.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
