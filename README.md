@@ -34,7 +34,7 @@
     <img src="images/Madagascar(0.5).jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">PROJECT 1 – GeBIZ (RPA-C-01 | Tracking of Tenders)</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
