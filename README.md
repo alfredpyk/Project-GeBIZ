@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/alfredpyk/Project-GeBIZ">
     <img src="images/Madagascar(0.5).jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -181,16 +181,16 @@ List of resources and credits to:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/alfredpyk/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/alfredpyk/Project-GeBIZ.svg?style=for-the-badge
 [contributors-url]: https://github.com/alfredpyk/Project-GeBIZ/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/alfredpyk/Project-GeBIZ.svg?style=for-the-badge
+[forks-url]: https://github.com/alfredpyk/Project-GeBIZ/network/members
+[stars-shield]: https://img.shields.io/github/stars/alfredpyk/Project-GeBIZ.svg?style=for-the-badge
+[stars-url]: https://github.com/alfredpyk/Project-GeBIZ/stargazers
+[issues-shield]: https://img.shields.io/github/issues/alfredpyk/Project-GeBIZ-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/alfredpyk/Project-GeBIZ/issues
+[license-shield]: https://img.shields.io/github/license/alfredpyk/Project-GeBIZ-Template.svg?style=for-the-badge
+[license-url]: https://github.com/alfredpyk/Project-GeBIZ/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/alfred-pang-533170210
 [product-screenshot]: images/screenshot.png
