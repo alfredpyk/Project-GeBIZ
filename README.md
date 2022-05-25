@@ -138,6 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Email to Specific User
 - [ ] Email to Controlled-Scope and to Controlled-Users
 - [ ] Use of Details/Info on Knowledgebase-Dashboard
+- [ ] Seamless Integration of systems
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
