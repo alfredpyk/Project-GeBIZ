@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+RACE-SCT - [@raceacademy](https://raceacademy.com.sg/blog/) - enquiries@raceacademy.com.sg
 
 Project Host: [RACE Academy](https://raceacademy.com.sg/)
 
