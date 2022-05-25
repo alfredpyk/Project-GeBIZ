@@ -131,15 +131,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/alfredpyk/Project-GeBBIZ/issues) for a full list of proposed features (and known issues).
+- [x] Credential Manager (Generic)
+- [x] Data-Scrap on Open Opportunities
+- [x] Data-Scrap on Closed Opportunities including info on Respondents, Bidding Prices and Awards
+- [x] Write into Excel on details for both Open/ Closed Opportunities
+- [x] Email to Specific User
+- [ ] Email to Controlled-Scope and to Controlled-Users
+- [ ] Use of Details/Info on Knowledgebase-Dashboard
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
