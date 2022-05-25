@@ -185,8 +185,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-List of resources and credit to:
-* [Mural - Design Thinking](https://shields.io)](https://www.mural.co/)
+List of resources and credits to:
+* [Mural - Design Thinking](https://www.mural.co/)
 * [UiPath-Studio](https://www.uipath.com/product/studio)
 * [UiPath Academy](https://academy.uipath.com)
 * [GitHub](https://github.com)
