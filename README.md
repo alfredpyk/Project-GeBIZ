@@ -150,7 +150,8 @@ Team Madagascar - **greatly appreciated** to all members of the team.
 
 <!-- LICENSE -->
 ## License
-[UiPath Academic Alliance](https://www.uipath.com/rpa/academic-alliance)
+- [UiPath Academic Alliance](https://www.uipath.com/rpa/academic-alliance)
+- This README.md is an adaption of othneildrew's "Best-README-Template" distributed under the MIT License. [See `LICENSE.txt` for more information](LICENSE.txt)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
