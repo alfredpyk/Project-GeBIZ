@@ -85,15 +85,13 @@ Projects are the lifeblood of many enterprises and they are often issued as tend
 
 ![GeBIZ Opportunities](images/GeBIZimage50.png)
 
-
 Here's why:
-You need to monitor and keep track of opportunities (both open and closed) on “gebiz.gov.sg” because he wants to stay on-top of:
+You need to monitor and keep track of opportunities (both open and closed) on “gebiz.gov.sg” because you want to stay on-top of:
 1. Available opportunities (as in tenders, quotations and qualifications) projects
-    - Focused projects and solving problems; and 
-2. Having an insight “ear-on-the-ground” on competitors, bidding-prices and awards.”
+    - Focused on opportunities and targetting projects when made available; and
+2. Have an insight, “ear-on-the-ground” so to said, on respondents/ competitors, bidding-prices and awards on project.”
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
