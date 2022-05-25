@@ -86,7 +86,9 @@
 
 [![GeBIZ URL Screen Shot][product-screenshot]]((images/GeBIZimage(0.5).png))
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+### Industry Challenge: Automating tracking of business tender opportunities
+Projects are the lifeblood of many enterprises and they are often issued as tenders by large multinational corporations (MNCs) and/or government. Time and effort are usually spent monitoring or scanning through tender platforms such as GeBIZ. Furthermore, the specifications of the tenders are often hidden in attached documents prepared by client organisations, and going through this process can be tedious and time-consuming.
+
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
