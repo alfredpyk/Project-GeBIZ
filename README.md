@@ -45,9 +45,9 @@
     <br />
     <a href="https://github.com/alfredpyk/Project-GeBIZ">Project-GeBIZ</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/alfredpyk/Project-GeBIZ/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/alfredpyk/Project-GeBIZ/issues">Request Feature</a>
   </p>
 </div>
 
