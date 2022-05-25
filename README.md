@@ -194,7 +194,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
+* [UiPath Academy](https://academy.uipath.com)
 * [GitHub](https://github.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
