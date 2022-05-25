@@ -1,7 +1,8 @@
 <div id="top"></div>
 <!--
 *** This is a direct adaption of Othneildrew and team's Best-README-Template
-*** Superd Menu Selection and facilities
+*** with superd Menu Selection and facilities
+*** (https://github.com/othneildrew/Best-README-Template)
 ***
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
