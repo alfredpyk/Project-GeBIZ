@@ -109,23 +109,12 @@ Major frameworks/libraries used on this project:
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-Your system must be installed and setup above software in order to run your project locally.
-To get a local copy up and running follow these simple example steps.
+Your system must be installed and setup with above software in order to run your project locally.
 
 ### Prerequisites
+_Instruction installing and setting up your app._
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Download and install a community (free) version of UiPath-Studio [[https://account.uipath.com](https://account.uipath.com/)
+1. A community (free) version of UiPath-Studio works just fine [[https://account.uipath.com](https://account.uipath.com/)
 
 3. Clone the repo
    ```sh
