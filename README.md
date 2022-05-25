@@ -67,7 +67,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#storyboard">Usage</a></li>
+    <li><a href="#storyboard">StoryBoard</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -116,7 +116,7 @@ _Instruction installing and setting up your app._
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
+<!-- StoryBoard -->
 ## StoryBoard
 Raw ideas on the What’s and How’s Opportunities-Lead (on weekly basis) has a range of scopes (keywords-HDB, Green, Security, etc.) to search through:
 _For more details, please refer to the [Project Report - Madagascar](https://github.com/alfredpyk/Project-GeBIZ)_
