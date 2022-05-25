@@ -113,25 +113,13 @@ Your system must be installed and setup with above software in order to run your
 
 ### Prerequisites
 _Instruction installing and setting up your app._
+1. System running Windows 10 or 11
+2. Microsoft Office - Excel
+3. A community (free) version of UiPath-Studio works just fine [https://account.uipath.com](https://account.uipath.com/)
 
-1. A community (free) version of UiPath-Studio works just fine [[https://account.uipath.com](https://account.uipath.com/)
-
-3. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
