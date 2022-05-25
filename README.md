@@ -38,9 +38,9 @@
   <h3 align="center">PROJECT 1 – GeBIZ (RPA-C-01 | Tracking of Tenders)</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome GeBIZ DATA-SCRAP project!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alfredpyk/Project-GeBIZ"><strong>Explore this project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/alfredpyk/Project-GeBIZ">Project-GeBIZ</a>
