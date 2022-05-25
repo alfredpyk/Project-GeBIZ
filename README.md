@@ -190,7 +190,7 @@ List of resources and credits to:
 [issues-shield]: https://img.shields.io/github/issues/alfredpyk/Project-GeBIZ-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/alfredpyk/Project-GeBIZ/issues
 [license-shield]: https://img.shields.io/github/license/alfredpyk/Project-GeBIZ-Template.svg?style=for-the-badge
-[license-url]: https://github.com/alfredpyk/Project-GeBIZ/blob/master/LICENSE.txt
+[license-url]: https://github.com/alfredpyk/Project-GeBIZ/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alfred-pang-533170210
 [product-screenshot]: images/screenshot.png
