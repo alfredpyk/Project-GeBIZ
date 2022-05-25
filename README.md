@@ -117,8 +117,6 @@ _Instruction installing and setting up your app._
 2. Microsoft Office - Excel
 3. A community (free) version of UiPath-Studio works just fine [https://account.uipath.com](https://account.uipath.com/)
 
-   ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
