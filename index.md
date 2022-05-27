@@ -1,6 +1,6 @@
 ## Project 1 - Madagascar-GeBIZ (RPA-C-01 | Tracking of Tenders)
 
-An awesome GeBIZ DATA-CRAP Project [Switch to GitHub](https://github.com/alfredpyk/Project-GeBIZ).
+An awesome GeBIZ DATA-SCRAP Project [Switch to GitHub](https://github.com/alfredpyk/Project-GeBIZ).
 
 ### Industry Challenge: Automating tracking of business opportunities
 
