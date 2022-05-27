@@ -34,6 +34,7 @@ Raw ideas on the What’s and How’s Opportunities-Lead (on weekly basis) has a
 <img align="left" src="StoryBoard.jpg">
 
 
+
 ## Prototype
 The development will be built in parts/ modules integrating to form a system of functions/capabilities:
 -	On simple user-window’s dialogue;
@@ -41,6 +42,7 @@ The development will be built in parts/ modules integrating to form a system of 
 -	Excel-spreadsheets of requested scope/ keyword; and
 -	Stored/ sent to specifics users’ of interest in the scopes/ keywords.
 <img align="left" src="Prototype.jpg">
+
 
 # Articulation of Challenge Statement: As-Is
 Given above context,
@@ -59,6 +61,11 @@ Given above context,
 Given above context,
 
 # Recommendations for Future Improvement
-Given above context,
+With time constraint, the team would make the following recommendations for future improvements:
+1.	As it may not be necessary to login to GeBIZ, the login facilities may be left later when necessary, such as when required for downloading documents, submission of tender, etc.
+2.	The application may recognise areas of interest with departments, managers and/or individuals; and direct email/ channel information to them, that is controlled receivers of email with defined scopes; and building of the knowledgebase;
+3.	With ongoing scraping (probably weekly), a working dashboard/s displaying necessary/ segmented information view by both the company and/or control individuals on scopes of projects for monitoring and tracking purposes; and
+4.	This project could be extended to data analytics and dashboarding of information scrapped.
+
 
 
