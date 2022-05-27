@@ -14,6 +14,10 @@ GeBIZ is the Singapore Government's one-stop e-procurement portal. All the publi
 
 
 
+
+
+
+
 # 1. Design Thinking
 Approach project from 2 prongs and converging to one after week-1:
 -	First is to get all members to focus on project’s “Pain and Smile” points and 
