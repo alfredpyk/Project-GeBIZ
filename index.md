@@ -1,4 +1,4 @@
-## Project 1 - Madagascar-GeBIZ (RPA-C-01 | Tracking of Tenders)
+# Project 1 - Madagascar-GeBIZ (RPA-C-01 | Tracking of Tenders)
 An awesome GeBIZ DATA-SCRAP Project [Switch to GitHub](https://github.com/alfredpyk/Project-GeBIZ).
 
 <img align="right" src="Madagascar.jpg">
@@ -6,18 +6,19 @@ An awesome GeBIZ DATA-SCRAP Project [Switch to GitHub](https://github.com/alfred
 ### Industry Challenge: Automating tracking of business opportunities
 Projects are the lifeblood of many enterprises and they are often issued as tenders by large multinational corporations (MNCs) and/or government. Time and effort ar e usually spent monitoring or scanning through tender platforms such as GeBIZ. Furthermore, the specifications of the tenders are often hidden in attached documents prepared by client organisations, and going through this process can be tedious and time-consuming.
 
-### Background
+# Background
 
 <img align="left" src="GeBIZimage25.png">
 GeBIZ is the Singapore Government's one-stop e-procurement portal. All the public sector's invitations for quotations and tenders are posted on GeBIZ. Suppliers can search for government procurement opportunities (Open - Tenders, Quotations and Qualifications; Closed - Respondents, Bidding Prices and Awards), download tender documents and submit their bids online.
 
 
-### Design Thinking
+
+# Design Thinking
 Approach project from 2 prongs and converging to one after week-1:
 -	First is to get all members to focus on project’s “Pain and Smile” points and 
 -	Second for all team members to be familiar on using UiPath-Studio on project.
 
-#### Pain and Smile Points
+## Pain and Smile Points
 The team has identified some key “Pain and Smile” points:
 -	The “gebiz.gov.sg” portal by itself is already very comprehensive for its purposes and direct individual usage;
 -	As the portal is an individual logon, much information within are view only by individual, hence certain details could be scraped by the individual and disseminated/ communicated/ extended to others (probably controlled, as the company intent scopes of opportunities;
@@ -27,8 +28,17 @@ The team has identified some key “Pain and Smile” points:
 -	On “Log in with SingPass”, care got to be taken on its use and considerations of both security measures and privacy. Probably, this should be avoided unless really necessary. There are such available measures as use of “credential” control at local (generic) and central (Orchestrator) locations.
 
 
-#### StoryBoard
+## StoryBoard
 Raw ideas on the What’s and How’s Opportunities-Lead (on weekly basis) has a range of scopes (keywords-HDB, Green, Security, etc.) to search through:
 <img align="left" src="StoryBoard.jpg">
 
+
+## Prototype
+The development will be built in parts/ modules integrating to form a system of functions/capabilities:
+-	On simple user-window’s dialogue;
+-	In-built data scraping tool;
+-	Excel-spreadsheets of requested scope/ keyword; and
+-	Stored/ sent to specifics users’ of interest in the scopes/ keywords.
+
+<img align="left" src="Prototype.jpg">
 
