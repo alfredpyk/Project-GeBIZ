@@ -11,7 +11,7 @@ Projects are the lifeblood of many enterprises and they are often issued as tend
 GeBIZ is the Singapore Government's one-stop e-procurement portal. All the public sector's invitations for quotations and tenders are posted on GeBIZ. Suppliers can search for government procurement opportunities (Open - Tenders, Quotations and Qualifications; Closed - Respondents, Bidding Prices and Awards), download tender documents and submit their bids online.
 
 
-## 1. Design Thinking
+# 1. Design Thinking
 Approach project from 2 prongs and converging to one after week-1:
 -	First is to get all members to focus on project’s “Pain and Smile” points and 
 -	Second for all team members to be familiar on using UiPath-Studio on project.
@@ -42,7 +42,7 @@ The development will be built in parts/ modules integrating to form a system of 
 <img align="left" src="Prototype.jpg">
 
 
-# 2. Articulation of Challenge Statement: As-Is
+# 2. Challenge Statement: As-Is
 Given above context,
 “Manager A, managing a busy and dynamic business, needs to monitor and keep track of opportunities (both open and closed) on “gebiz.gov.sg” because he wants to stay on-top of:
 1.	Available opportunities/ projects and 
@@ -54,13 +54,13 @@ Given above context,
 
 <img align="left" src="SolutionDesign.jpg">
 
-# 4. Challenges Faced and How Overcame
+# 4. Challenges
 Given above context,
 
-# 5. How Much Time/Money/Lives the Solution Saves
+# 5. Time/Money/Lives Savings
 Given above context,
 
-# 6. Recommendations for Future Improvement
+# 6. Future Improvement
 With time constraint, the team would make the following recommendations for future improvements:
 1.	As it may not be necessary to login to GeBIZ, the login facilities may be left later when necessary, such as when required for downloading documents, submission of tender, etc.
 2.	The application may recognise areas of interest with departments, managers and/or individuals; and direct email/ channel information to them, that is controlled receivers of email with defined scopes; and building of the knowledgebase;
