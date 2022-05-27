@@ -3,7 +3,7 @@ An awesome GeBIZ DATA-SCRAP Project [Switch to GitHub](https://github.com/alfred
 
 <img align="right" src="Madagascar.jpg">
 
-### Industry Challenge: Automating tracking of business opportunities
+## Industry Challenge: Automating tracking of business opportunities
 Projects are the lifeblood of many enterprises and they are often issued as tenders by large multinational corporations (MNCs) and/or government. Time and effort ar e usually spent monitoring or scanning through tender platforms such as GeBIZ. Furthermore, the specifications of the tenders are often hidden in attached documents prepared by client organisations, and going through this process can be tedious and time-consuming.
 
 # Background
@@ -40,3 +40,23 @@ The development will be built in parts/ modules integrating to form a system of 
 -	Excel-spreadsheets of requested scope/ keyword; and
 -	Stored/ sent to specifics users’ of interest in the scopes/ keywords.
 <img align="left" src="Prototype.jpg">
+
+# Articulation of Challenge Statement: As-Is
+Given above context,
+“Manager A, managing a busy and dynamic business, needs to monitor and keep track of opportunities (both open and closed) on “gebiz.gov.sg” because he wants to stay on-top of:
+1.	Available opportunities/ projects and 
+2.	Be able to keep his/her “ear-on-the-ground” on competitors, bidding-prices and awards.”
+
+<img align="left" src="ProcessDefinition.jpg">
+<img align="left" src="SolutionDesign.jpg">
+
+# Challenges Faced and How Overcame
+Given above context,
+
+# How Much Time/Money/Lives the Solution Saves
+Given above context,
+
+# Recommendations for Future Improvement
+Given above context,
+
+
