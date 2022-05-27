@@ -39,6 +39,5 @@ The development will be built in parts/ modules integrating to form a system of 
 -	In-built data scraping tool;
 -	Excel-spreadsheets of requested scope/ keyword; and
 -	Stored/ sent to specifics users’ of interest in the scopes/ keywords.
-
 <img align="left" src="Prototype.jpg">
 
