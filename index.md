@@ -11,5 +11,5 @@ GeBIZ is the Singapore Government's one-stop e-procurement portal. All the publi
 
 ### StoryBoard
 
-<img src="https://alfredpyk.github.io/Project-GeBIZ/images/StoryBoard.jpg">
+<img align="left" img src="https://alfredpyk.github.io/Project-GeBIZ/images/StoryBoard.jpg">
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
