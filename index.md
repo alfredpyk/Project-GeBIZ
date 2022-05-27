@@ -1,12 +1,10 @@
-## Welcome Madagascar-Project-GeBIZ
+## Project 1 - Madagascar-GeBIZ (RPA-C-01 | Tracking of Tenders)
 
-You can use the [editor on GitHub](https://github.com/alfredpyk/Project-GeBIZ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+An awesome GeBIZ DATA-CRAP Project [Switch to GitHub](https://github.com/alfredpyk/Project-GeBIZ).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Industry Challenge: Automating tracking of business opportunities
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Projects are the lifeblood of many enterprises and they are often issued as tenders by large multinational corporations (MNCs) and/or government. Time and effort are usually spent monitoring or scanning through tender platforms such as GeBIZ. Furthermore, the specifications of the tenders are often hidden in attached documents prepared by client organisations, and going through this process can be tedious and time-consuming.
 
 ```markdown
 Syntax highlighted code block
