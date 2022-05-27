@@ -10,7 +10,10 @@ Projects are the lifeblood of many enterprises and they are often issued as tend
 <img align="left" src="GeBIZimage25.png">
 
 
+
+
 GeBIZ is the Singapore Government's one-stop e-procurement portal. All the public sector's invitations for quotations and tenders are posted on GeBIZ. Suppliers can search for government procurement opportunities (Open - Tenders, Quotations and Qualifications; Closed - Respondents, Bidding Prices and Awards), download tender documents and submit their bids online.
+
 
 
 # 1. Design Thinking
