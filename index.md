@@ -82,3 +82,5 @@ With time constraint, the team would make the following recommendations for futu
     </embed>
 </object>
 <a id="raw-url" href="/ProjectGeBIZ.pdf">Download FILE</a>
+
+[download this](ProjectGeBIZ.pdf)
