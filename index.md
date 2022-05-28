@@ -73,6 +73,5 @@ With time constraint, the team would make the following recommendations for futu
 4.	This project could be extended to data analytics and dashboarding of information scrapped.
 
 # A. Reference
-- Project1 (GeBIZ) Report - Magascar.pdf [here](./Project1 (GeBIZ) Report - Magascar.pdf).
-
+- Project1 (GeBIZ) Report - Magascar.pdf './Project1 (GeBIZ) Report - Magascar.pdf' markdown file:
 
