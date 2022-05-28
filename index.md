@@ -74,7 +74,7 @@ With time constraint, the team would make the following recommendations for futu
 
 # A. Reference
 
-[Project Report](Project1 (GeBIZ) Report - Magascar.pdf)
+[Project Report](ProjectGeBIZ.pdf)
 
 
 
