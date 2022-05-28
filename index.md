@@ -72,5 +72,6 @@ With time constraint, the team would make the following recommendations for futu
 3.	With ongoing scraping (probably weekly), a working dashboard/s displaying necessary/ segmented information view by both the company and/or control individuals on scopes of projects for monitoring and tracking purposes; and
 4.	This project could be extended to data analytics and dashboarding of information scrapped.
 
-
+# A. Reference
+- Project1 (GeBIZ) Report - Magascar.pdf [Project1 (GeBIZ) Report - Magascar]("Project1 (GeBIZ) Report - Magascar.pdf").
 
