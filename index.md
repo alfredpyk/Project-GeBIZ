@@ -76,5 +76,9 @@ With time constraint, the team would make the following recommendations for futu
 
 [Project Report](ProjectGeBIZ.pdf)
 
-
+<object data="ProjectGeBIZ.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="ProjectGeBIZ.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="ProjectGeBIZ.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
