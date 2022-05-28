@@ -81,4 +81,4 @@ With time constraint, the team would make the following recommendations for futu
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="ProjectGeBIZ.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
+<a id="raw-url" href="https://raw.githubusercontent.com/alfredpyk/Project-GeBIZ/ProjectGeBIZ.pdf">Download FILE</a>
