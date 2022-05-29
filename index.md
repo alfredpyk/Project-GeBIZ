@@ -60,7 +60,7 @@ Given above context,
 <img align="left" src="SolutionDesign.jpg">
 
 # 4. Challenges
-Given above context,
+<img align="left" src="Challenges.jpg">
 
 # 5. Time/Money/Lives Savings
 <img align="left" src="TimeMoneyLives.jpg">
