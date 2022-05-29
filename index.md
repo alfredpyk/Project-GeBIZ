@@ -63,7 +63,7 @@ Given above context,
 Given above context,
 
 # 5. Time/Money/Lives Savings
-Given above context,
+<img align="left" src="TimeMoneyLives.jpg">
 
 # 6. Future Improvement
 With time constraint, the team would make the following recommendations for future improvements:
