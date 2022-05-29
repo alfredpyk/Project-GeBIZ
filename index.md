@@ -1,4 +1,4 @@
-# Project 1 - Madagascar-GeBIZ (RPA-C-01 | Tracking of Tenders)
+# Project1-GeBIZ (RPA-C-01 | Tracking of Tenders)
 An awesome GeBIZ DATA-SCRAP Project [Switch to GitHub](https://github.com/alfredpyk/Project-GeBIZ).
 
 <img align="right" src="Madagascar.jpg">
