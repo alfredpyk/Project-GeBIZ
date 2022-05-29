@@ -74,15 +74,10 @@ With time constraint, the team would make the following recommendations for futu
 
 # A. Reference
 
-[Project Report](ProjectGeBIZ.pdf)
-
 <object data="ProjectGeBIZ.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="ProjectGeBIZ.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="ProjectGeBIZ.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-<a id="raw-url" href="/ProjectGeBIZ.pdf">Download FILE</a>
 
-[download this](ProjectGeBIZ.pdf)
-
-<a href="ProjectGeBIZ.pdf" download="ProjectGeBIZ.pdf">ProjectGeBIZ this</a>
+<a href="ProjectGeBIZ.pdf" download="ProjectGeBIZ.pdf">Download Project1 - GeBIZ Report</a>
