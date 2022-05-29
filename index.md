@@ -80,6 +80,9 @@ With time constraint, the team would make the following recommendations for futu
 ## B.	As per SCT 11 Project 1 Evaluation Matrix (dated 11 May 2022)
 
 
+## C.	Madagascar's Project1 - GeBIZ Report
+
+
 <object data="ProjectGeBIZ.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="ProjectGeBIZ.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="ProjectGeBIZ.pdf">Download PDF</a>.</p>
