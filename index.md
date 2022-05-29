@@ -76,9 +76,8 @@ With time constraint, the team would make the following recommendations for futu
 ## A. As per SCT 11 Project 1 Detailed Brief Apr 2022 Final (dated 27 Apr 2022), Slide-6|
 <img align="left" src="ProjectBrief.jpg">
 
-
 ## B.	As per SCT 11 Project 1 Evaluation Matrix (dated 11 May 2022)
-
+<img align="left" src="ProjectEvalMatrix.jpg">
 
 
 ## C.	Madagascar's Project 1 - GeBIZ Report
