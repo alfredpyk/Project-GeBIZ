@@ -73,27 +73,8 @@ With time constraint, the team would make the following recommendations for futu
 4.	This project could be extended to data analytics and dashboarding of information scrapped.
 
 # 7. Reference
-|## A. As per SCT 11 Project 1 Detailed Brief Apr 2022 Final (dated 27 Apr 2022), Slide-6|
-|----------------------------------------------------------------------------------------|
-|(1)	Team Website (WIX, Weebly)|
-|(2)	Project Report documenting the following
-|•	How you applied what you learned in Training Phase
-|•	Demonstration of Design Thinking
-|•	Articulation of Challenge Statement: As-Is
-|•	Your Solution and how it evolved across multiple iterations
-|•	How much time/money/lives your Solution saves
-|•	Challenges faced by team and how your team overcome it
-|•	Recommendations for future improvements
-|(3)	Presentation showing evolution of ideas
-|(4)	Demo of the prototype workflow of the automation process (include a video as a backup).
-|(5)	Weekly Report due every Wed noon to eric.chia@raceacademy.com.sg , comprises of:
-|•	Submitted Date
-|•	Team Members
-|•	Project Objectives
-|•	Project Plan and Status
-|•	Gantt Chart
-|•	Any other relevant materials
-|All Deliverables to be stored in dedicated repository (to be provided soon)
+## A. As per SCT 11 Project 1 Detailed Brief Apr 2022 Final (dated 27 Apr 2022), Slide-6|
+<img align="left" src="ProjectBrief.jpg">
 
 
 ## B.	As per SCT 11 Project 1 Evaluation Matrix (dated 11 May 2022)
