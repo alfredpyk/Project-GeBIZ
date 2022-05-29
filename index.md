@@ -73,7 +73,7 @@ With time constraint, the team would make the following recommendations for futu
 4.	This project could be extended to data analytics and dashboarding of information scrapped.
 
 # 7. Reference
-## A. As per SCT 11 Project 1 Detailed Brief Apr 2022 Final (dated 27 Apr 2022), Slide-6|
+## A. As per SCT 11 Project 1 Detailed Brief Apr 2022 Final (dated 27 Apr 2022), Slide-6
 <img align="left" src="ProjectBrief.jpg">
 
 ## B.	As per SCT 11 Project 1 Evaluation Matrix (dated 11 May 2022)
