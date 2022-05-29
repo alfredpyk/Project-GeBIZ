@@ -80,4 +80,4 @@ With time constraint, the team would make the following recommendations for futu
     </embed>
 </object>
 
-<a href="ProjectGeBIZ.pdf" download="ProjectGeBIZ.pdf">Download Project1 - GeBIZ Report</a>
+<a href="ProjectGeBIZ.pdf" download="ProjectGeBIZ.pdf">Download Madagascar's Project1 - GeBIZ Report</a>
