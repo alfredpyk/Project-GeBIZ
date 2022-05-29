@@ -72,7 +72,13 @@ With time constraint, the team would make the following recommendations for futu
 3.	With ongoing scraping (probably weekly), a working dashboard/s displaying necessary/ segmented information view by both the company and/or control individuals on scopes of projects for monitoring and tracking purposes; and
 4.	This project could be extended to data analytics and dashboarding of information scrapped.
 
-# A. Reference
+# 7. Reference
+## A. As per SCT 11 Project 1 Detailed Brief Apr 2022 Final (dated 27 Apr 2022), Slide-6
+
+
+
+## B.	As per SCT 11 Project 1 Evaluation Matrix (dated 11 May 2022)
+
 
 <object data="ProjectGeBIZ.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="ProjectGeBIZ.pdf">
