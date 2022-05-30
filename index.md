@@ -71,7 +71,7 @@ Given above context,
 |^^     B. Orange   || ^^  2. $I = \int \rho R^{2} dV$   |
 |^^     C. Banana   || **It's Ok!**                      |
 
-[cell-image: https://jekyllrb.com/img/octojekyll.png "An 
+[cell-image: https://jekyllrb.com/img/octojekyll.png "An exemplary image"
 
 <img align="left" src="Challenges.jpg">
 
