@@ -7,14 +7,8 @@ An awesome GeBIZ DATA-SCRAP Project [Switch to GitHub](https://github.com/alfred
 Projects are the lifeblood of many enterprises and they are often issued as tenders by large multinational corporations (MNCs) and/or government. Time and effort ar e usually spent monitoring or scanning through tender platforms such as GeBIZ. Furthermore, the specifications of the tenders are often hidden in attached documents prepared by client organisations, and going through this process can be tedious and time-consuming.
 
 ## Background
-<img align="left" src="GeBIZimage25.png">
- 
- 
- 
- 
+<img align="left" src="GeBIZimage50.png">
 GeBIZ is the Singapore Government's one-stop e-procurement portal. All the public sector's invitations for quotations and tenders are posted on GeBIZ. Suppliers can search for government procurement opportunities (Open - Tenders, Quotations and Qualifications; Closed - Respondents, Bidding Prices and Awards), download tender documents and submit their bids online.
-
-
 
 # 1. Design Thinking
 Approach project from 2 prongs and converging to one after week-1:
@@ -60,34 +54,6 @@ Given above context,
 <img align="left" src="SolutionDesign.jpg">
 
 # 4. Challenges
-
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
-
 <img align="left" src="Challenges.jpg">
 
 # 5. Time/Money/Lives Savings
