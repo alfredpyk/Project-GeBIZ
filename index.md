@@ -88,15 +88,10 @@ Given above context,
     </tbody>
 </table>
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
+| a | b |
+|---|---|
+| 1 | 2 |
+| ^ | 4 |
 
 <img align="left" src="Challenges.jpg">
 
