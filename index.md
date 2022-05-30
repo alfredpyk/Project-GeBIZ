@@ -88,9 +88,9 @@ Given above context,
     </tbody>
 </table>
 
-|\2. horizontal merged cell |
-|/2. vertical merged cell | data1 |
-|data2|
+| > | horizontal merged cell        |
+| vertical merged cell      | data1 |
+| ^                        | data2 |
 
 <img align="left" src="Challenges.jpg">
 
