@@ -13,6 +13,7 @@ GeBIZ is Singapore Government's one-stop e-procurement portal. Major public sect
 
 Suppliers can search (using keyword/s and/or industry) for government procurement opportunities such as "Open" (Today, Past 2 days or Past 7 days) - Tenders, Quotations and Qualifications; Closed (Pending Award, Awarded, Cancelled or No Award) - Respondents, Bidding Prices and Awards; download opportunities requirement specifications, details on briefing and documents, and submit (both manual or digital submission types) their bids online.
 
+ 
 # 1. Design Thinking
 Approach project from 2 prongs and converging to one after week-1:
 -	First is to get all members to focus on project’s “Pain and Smile” points and 
