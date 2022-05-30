@@ -88,6 +88,16 @@ Given above context,
     </tbody>
 </table>
 
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
+
 <img align="left" src="Challenges.jpg">
 
 # 5. Time/Money/Lives Savings
