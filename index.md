@@ -88,14 +88,20 @@ Given above context,
     </tbody>
 </table>
 
-[cols="^.^,^.^,^.^"]
-|===
-|Layer1 |Layer2 |Layer3
-.4+|L1 Name .2+|L2 Name A |L3 Name A
-|L3 Name B
-.2+|L2 Name B |L3 Name C
-|L3 Name D
-|===
+It is not possible in standard Markdown, however, there are some solutions which is supporting this feature. One of the previously mentioned Multimarkdown, but I would like to recommend another online Markdown editor which is supporting it: μr² editor
+
+It is supporting row and column merge and also generate a nice PDF from the output. Example:
+
+|               |          Grouping             ||         Grouping 2         ||  Not Grouped    |
+| First Header  | Second Header | Third Header   | Forth Header | Fifth Header | Sixth Header    |
+| ------------- | :-----------: | -------------: | :----------: | :----------: | --------------- |
+| Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
+| ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
+| ^^            |               | 1. second item |              | 1. forth item | + second point |
+
+| New section   |     More      |         Data   | ... - -- --- |||
+| And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
+[Compicated table]
 
 <img align="left" src="Challenges.jpg">
 
