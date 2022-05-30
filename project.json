@@ -1,23 +1,22 @@
 {
-  "name": "Project-GeBIZ",
+  "name": "TenderDetailsExtraction",
   "description": "Blank Process",
-  "main": "xxMain.xaml",
+  "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.12.3]",
-    "UiPath.Mail.Activities": "[1.15.1]",
-    "UiPath.System.Activities": "[22.4.1]",
-    "UiPath.UIAutomation.Activities": "[22.4.4]"
+    "UiPath.Credentials.Activities": "[2.0.0]",
+    "UiPath.Excel.Activities": "[2.9.5]",
+    "UiPath.Mail.Activities": "[1.9.5]",
+    "UiPath.System.Activities": "[20.10.4]",
+    "UiPath.UIAutomation.Activities": "[20.10.9]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "22.4.1.0",
+  "studioVersion": "20.10.7.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
-    "netFrameworkLazyLoading": false,
     "isPausable": true,
-    "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
     "excludedLoggedData": [
@@ -26,8 +25,7 @@
     ],
     "executionType": "Workflow",
     "readyForPiP": false,
-    "startsInPiP": false,
-    "mustRestoreAllDependencies": true
+    "startsInPiP": false
   },
   "designOptions": {
     "projectProfile": "Developement",
@@ -45,14 +43,13 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "xxMain.xaml",
-      "uniqueId": "e2e6b7fa-4d91-4838-a8b7-0eadb5a189db",
+      "filePath": "Main.xaml",
+      "uniqueId": "57cfc70b-7477-47a8-9743-35f120b8b2d4",
       "input": [],
       "output": []
     }
   ],
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {},
-  "targetFramework": "Legacy"
+  "publishData": {}
 }
