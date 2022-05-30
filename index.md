@@ -76,22 +76,11 @@ Given above context,
             <td>L3 Name A</td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
             <td rowspan=2>L2 Name B</td>
             <td>L3 Name C</td>
         </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
     </tbody>
 </table>
-
-| a | b |
-|---|---|
-| 1 | 2 |
-| ^ | 4 |
 
 <img align="left" src="Challenges.jpg">
 
