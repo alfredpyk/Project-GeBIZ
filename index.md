@@ -79,7 +79,6 @@ Given above context,
 | Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
 | ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
 | ^^            |               | 1. second item |              | 1. forth item | + second point |
-
 | New section   |     More      |         Data   | ... - -- --- |||
 | And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
 [Compicated table]
