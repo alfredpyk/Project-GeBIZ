@@ -61,15 +61,15 @@ Given above context,
 
 # 4. Challenges
 
-|:                   MathJax \|\| Image               :|||
-|:------------|:-------------|:--------------------------|
-| Apple       |: Apple :| Apple                          \
-| Banana       |: Bannana :| Bannana                     \
-| Orange       |: Orange :| Orange                       |
-|: Rowspan is 4   :||: How's it?                        :|
-|^^     A. Peach    ||     1. ![example][cell-image]     |
-|^^     B. Orange   || ^^  2. $I = \int \rho R^{2} dV$   |
-|^^     C. Banana   || **It's Ok!**                      |
+|:                   MathJax \|\| Image                  :|||
+|:------------|:-------------|:---------------------------- |
+| Apple       |: Apple :| Apple                             \
+| Banana       |: Bannana :| Bannana                        \
+| Orange       |: Orange :| Orange                          |
+|: Rowspan is 4         :||: How's it?                     :|
+|^^    A. Peach          ||     1. ![example][cell-image]   |
+|^^    B. Orange         || ^^  2. $I = \int \rho R^{2} dV$ |
+|^^    C. Banana         || **It's Ok!**                    |
 
 [cell-image: https://jekyllrb.com/img/octojekyll.png "An exemplary image"
 
