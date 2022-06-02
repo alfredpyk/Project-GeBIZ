@@ -53,6 +53,9 @@ Given above context,
 
 
 # 3. Process-Solution
+Details 
+
+
 <img align="left" src="ProcessDefinition.jpg">
 
 <img align="left" src="SolutionDesign.jpg">
