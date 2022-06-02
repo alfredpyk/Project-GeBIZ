@@ -44,6 +44,8 @@ The development will be built in parts/ modules integrating to form a system of 
 -	Stored/ sent to specifics users’ of interest in the scopes/ keywords.
 <img align="left" src="Prototype.jpg">
 
+## e) Test - On Exception
+<img align="left" src="TestonException.jpg">
 
 # 2. Challenge Statement: As-Is
 Given above context,
