@@ -49,6 +49,16 @@ The team had several issues in Scrap and/or GetText of the GeBIZ website, such a
 <img align="left" src="TestonException.jpg">
 
 
+## f) What Platform
+Team Madagascar will only focus on:
+-	A Window-base desktop; 
+-	With UiPath-Studio scraping on “gebiz.gov.sg” site;
+-	This could be with either with/without SingPass login.;
+-	If time permits, may be built upon UiPath-Orchestrator for “Unattended/Attended/Hybrid” implementation/s.
+-	Email system for sending specific reports/ info to targeted project-managers
+
+
+
 # 2. Challenge Statement: As-Is
 Given above context,
 “Manager A, managing a busy and dynamic business, needs to monitor and keep track of opportunities (both open and closed) on “gebiz.gov.sg” because he wants to stay on-top of:
