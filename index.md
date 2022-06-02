@@ -45,7 +45,9 @@ The development will be built in parts/ modules integrating to form a system of 
 <img align="left" src="Prototype.jpg">
 
 ## e) Test - On Exception
+The team had several issues in Scrap and/or GetText of the GeBIZ website, such as:
 <img align="left" src="TestonException.jpg">
+
 
 # 2. Challenge Statement: As-Is
 Given above context,
