@@ -78,7 +78,7 @@ With time constraint, the team would make the following recommendations for futu
 <img align="left" src="ProjectEval.jpg">
 
 
-## C.	Madagascar's Project 1 - GeBIZ Report
+## C.	Madagascar's Project 1 - GeBIZ Reports
 
 
 <object data="ProjectGeBIZ.pdf" type="application/pdf" width="700px" height="700px">
@@ -86,6 +86,7 @@ With time constraint, the team would make the following recommendations for futu
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="ProjectGeBIZ.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
 
 
 
