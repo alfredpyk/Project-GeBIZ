@@ -156,9 +156,9 @@ With time constraint, the team would make the following recommendations for futu
     </embed>
 </object>
 
-<a href="ProjectGeBIZ.pdf" download="ProjectGeBIZ.pdf">Download Madagascar's Project1 - GeBIZ Report</a>
+<a href="ProjectGeBIZ.pdf" download="ProjectGeBIZ.pdf">1. Download Madagascar's Project1 - GeBIZ Report</a>
 
-<a href="ProjectProgressGeBIZ.pdf" download="ProjectGeBIZ.pdf">Download Madagascar's Weekly Project1 Progression Report</a>
+<a href="ProjectProgressGeBIZ.pdf" download="ProjectGeBIZ.pdf">2. Download Madagascar's Weekly Project1 Progression Report</a>
 
 
 ## D. GitHub Repository - https://github.com/alfredpyk/Project-GeBIZ
