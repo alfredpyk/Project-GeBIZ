@@ -171,12 +171,12 @@ a) Capturing each Reference-index of all Open Opportunities into an Excel-file
 b) On each items/ titles extract individually of necessary details
 - Details as Agreed/ Requested
 - As this is an "Open Opportunities", Download ALL necessary documents for the tender
-<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (Marine_Open_Listing_Download.mp4>
+<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (marine_Open_Listing_Download.mp4>
 
 2. "Closed Opportunities" - with keyword "hdb"
 a) Capturing each Reference-index of all Closed Opportunities into an Excel-file
 b) On each items/ titles extract individually of necessary details
 - Details as Agreed/ Requested
 - As this is a "Closed Opportunities", extraction purpose of info on Respondents, Bidding Prices, Awards, etc. are crucial of each items/ titles
-<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (Marine_Open_Listing_Download.mp4>
+<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (hdb_closed_Listing_Download.mp4>
 
