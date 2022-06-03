@@ -180,3 +180,4 @@ b) On each items/ titles extract individually of necessary details
 - As this is a "Closed Opportunities", extraction purpose of info on Respondents, Bidding Prices, Awards, etc. are crucial of each items/ titles
 <Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (hdb_closed_Listing_Download.mp4>
 
+
