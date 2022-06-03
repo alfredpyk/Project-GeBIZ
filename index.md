@@ -165,3 +165,4 @@ With time constraint, the team would make the following recommendations for futu
 <a href="ProjectProgressGeBIZ.pdf" download="ProjectGeBIZ.pdf">Download Madagascar's Weekly Project1 Progression Report</a>
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]
+(https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
