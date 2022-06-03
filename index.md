@@ -122,10 +122,8 @@ Given above context,
 |             |In week-3 another dropout, 2 members remaining. It was appreciated that the dropping out members to complete all tasks before handing over.|This was another setback, as there were much to do for remaining members.|
 |B. Schedule  |Owing the project was arranged/organized (allowing dropouts) and to how information (project scope, specifications and outcome expected) were disseminated to participants, making planning rather difficult and changes to workload (efforts, resources, etc.)|Refer to several changes in schedules/ gantt chart|
 |C. Technical |UiPath-Studio: As this is first time all participants have just learnt UiPath-Studio, it was difficult apply this on real project.|It was good to have team members with already background and/or interest in “programming” for team to resolve technical difficulties.|
-|             |GeBIZ website: Furthermore, the GeBIZ website is not clearly structured for data-scrapping to apply easily.|Team members need to spend time and efforts in applying several go-around problem solving technics to overcome difficulties.|
-|             |GitHub and Git-Pages: During “Training Phase” of RPA-UiPath-Studio, was the team first encounter of GitHub, lessons was focused more on version control and little understanding of the GitHub platform and its features. Challenges in learning about and further applying/use of:
--	GitHub for team-collaboration
--	Git-Pages for development website|Self-motivated and learning of new skills|
+|             |GeBIZ website: Furthermore, the GeBIZ website is not clearly structured for data-scrapping to apply easily.|Team members need to spend time and efforts in applying several go-around problem solving technics to overcome difficulties 
+|             |GitHub and Git-Pages: During “Training Phase” of RPA-UiPath-Studio, was the team first encounter of GitHub, lessons was focused more on version control and little understanding of the GitHub platform and its features. Challenges in learning about and further applying/use of: -	GitHub for team-collaboration -	Git-Pages for development website|Self-motivated and learning of new skills|
 
 <img align="left" src="Challenges.jpg">
 
