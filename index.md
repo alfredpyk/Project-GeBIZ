@@ -45,7 +45,7 @@ The development will be built in parts/ modules integrating to form a system of 
 
 ## e) Test - On Exception
 The team had several issues in Scrap and/or GetText of the GeBIZ website, such as:
-|**Item** |**Test on Exception     |**Remarks**            |
+|**Item** |**Test on Exception**         |**Remarks**            |
 |:-------|:------------------------------|:----------------------|
 | a)     |As data were not at all consistent/ structured accordingly;|Go around method/s in handling/ scrap.|
 | b)     |Accurate count of item/s as compared to actual, as next-page was not handled correctly (scraping only first page, missing out on remaining);|Cross-checking and corrected when necessary, for example on “hdb” returning 44 Open Opportunities items (10 items per page)|
