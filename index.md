@@ -71,7 +71,7 @@ Given above context,
 
 # 3. Process-Solution
 Final Solution 
-|**S/N**|**Function/ Sub-Function**    |**Remarks**           |
+|**S/N**|<**Function/ Sub-Function**   |<**Remarks**           |
 |-------|------------------------------|----------------------|
 | 1.    |Start/ Initiation             |                      |
 |       |a) Call GeBIZ on Browser      |https://gebiz.gov.sg  |
