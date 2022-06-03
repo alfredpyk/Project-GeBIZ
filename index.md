@@ -167,10 +167,10 @@ With time constraint, the team would make the following recommendations for futu
 
 ## F. Video Demo - MP4 (Streaming Recording)
 1. "Open Opportunities" - with keyword "marine"
-    a) Capturing each Reference-index of all Open Opportunities into an Excel-file
-    b) On each items/ titles extract individually of necessary details
-       - Details as Agreed/ Requested
-       - As this is an "Open Opportunities", Download ALL necessary documents for the tender
-    <Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (Marine_Open_Listing_Download.mp4>
+a) Capturing each Reference-index of all Open Opportunities into an Excel-file
+b) On each items/ titles extract individually of necessary details
+- Details as Agreed/ Requested
+- As this is an "Open Opportunities", Download ALL necessary documents for the tender
+<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (Marine_Open_Listing_Download.mp4>
 
 2. 
