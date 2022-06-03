@@ -68,7 +68,7 @@ Team Madagascar will only focus on:
 ## g) GitHub and GitHub-Pages
 During studies period (module on RPA-UiPath), the GitHub platform was introduced as a version control system and it allows for seamless collaboration with necessary controls over security, integrity and tracking of development of projects. It allows one to work together on projects from anywhere.
 Team Madagascar saw the usefulness and decided to use it for the development and documentation of our Project-GeBIZ, so as to learn more of its extend and benefits. Here are some main benefits of using GitHub:
-1.	It makes it easy for participants to contribute to the project, nevertheless, owing to its comprehensiveness and complexity, the team struggled through a steep-learning-curve;
+1.	<b>It makes it easy for participants to contribute to the project</b>, nevertheless, owing to its comprehensiveness and complexity, the team struggled through a steep-learning-curve;
 2.	Documentation. By using GitHub, team Madagascar documented:
    -	Team members are able to learn about tracking and observing the direction of development;
    -	The UiPath solution is explained on its in-built README.md
