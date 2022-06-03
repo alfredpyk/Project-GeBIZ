@@ -47,6 +47,16 @@ The development will be built in parts/ modules integrating to form a system of 
 
 ## e) Test - On Exception
 The team had several issues in Scrap and/or GetText of the GeBIZ website, such as:
+|**Item** |**Test on Exception     |**Remarks**            |
+|:-------|:------------------------------|:----------------------|
+| a)     |As data were not at all consistent/ structured accordingly;|Go around method/s in handling/ scrap.|
+| b)     |Accurate count of item/s as compared to actual, as next-page was not handled correctly (scraping only first page, missing out on remaining);|Cross-checking and corrected when necessary, for example on “hdb” returning 44 Open Opportunities items (10 items per page)|
+| c)     |There were needs to handle situations:||
+|        |i.   When “Open” Opportunities with 0 (zero) listing;|Requires checking and handle according with dialogue of “no item found”.|
+|        |ii.	 When use of keyword such as “rpa” returns gibberish; and|Could return such item as “carpark”, hence added “..” to all search item.|
+|        |iii.	iii.	Keyword returning items with “Corrigendum”, publish of “corrected info” – hence upsetting consistency of display table/s (throw UiPath of its normal scrap)|This is part of GeBIZ in handling publish- “corrected info”, but may be resolve in using different scraping techniques.|
+| d)     |Having to handle “Logout” of GeBIZ when task/s completed|Proper logout when session is completed.|
+
 <img align="left" src="TestonException.jpg">
 
 
