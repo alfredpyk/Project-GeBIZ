@@ -161,9 +161,12 @@ With time constraint, the team would make the following recommendations for futu
 
 <a href="ProjectProgressGeBIZ.pdf" download="ProjectGeBIZ.pdf">Download Madagascar's Weekly Project1 Progression Report</a>
 
-## MP4 - Streaming Recording of "Data Scrap on Open Opportunities" - with keyword "marine"
-1. Capturing its Reference-index of all Open Opportunities in a Excel-file
-2. Extract individually of title/s of all Open Opportunities
-- Detail information of each Reference-Index
-- Download ALL necessary documents for the tender
+## D. Video Demo
+1. MP4 - Streaming Recording of "Data Scrap on Open Opportunities" - with keyword "marine"
+   a) Capturing its Reference-index of all Open Opportunities in a Excel-file
+   b) Extract individually of title/s of all Open Opportunities
+       - Detail information of each Reference-Index
+       - Download ALL necessary documents for the tender
 <Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (Marine_Open_Listing_Download.mp4>
+
+2. 
