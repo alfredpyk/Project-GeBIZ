@@ -70,19 +70,24 @@ Given above context,
 
 
 # 3. Process-Solution
-Final Solution 
-|:**S/N**|:**Function/ Sub-Function**   |:**Remarks**           |
-|-------|------------------------------|----------------------|
-| 1.    |Start/ Initiation             |                      |
-|       |a) Call GeBIZ on Browser      |https://gebiz.gov.sg  |
-|       |b) Credential Manager         |SingPass (secured)    |
-|       |c) Enter Keyword              |Input Dialog          |
-|       |d) Open/ Closed Opportunities |Multiple Choice       |
-| 2.    |Open Opportunities            |                      |
-|       |a)	Extract Open Opportunities Item List      |Data Scrap and write to Excel-file|
-|       |b)	Extract Open Opportunities Item Details - Reference from Item-List         |Data Scrap and write to Excel-file    |
-| 3.    |Download All "Tender Documents"            |Save to Download/ specific location|
-
+##Final Solution 
+|**S/N** |**Function/ Sub-Function**     |**Remarks**            |
+|:-------|:------------------------------|:----------------------|
+| 1.     |Start/ Initiation              |                       |
+|        |a) Call GeBIZ on Browser       |https://gebiz.gov.sg   |
+|        |b) Credential Manager          |SingPass (secured)     |
+|        |c) Enter Keyword               |Input Dialog           |
+|        |d) Open/ Closed Opportunities  |Multiple Choice        |
+| 2.     |Open Opportunities             |                       |
+|        |a)	Extract Open Opportunities Item List|Data Scrap and write to Excel-file|
+|        |b)	Extract Open Opportunities Item Details - Reference from Item-List|Data Scrap and write to Excel-file|
+| 3.     |Download All "Tender Documents"|Save to Download/ specific location|
+| 4.     |Closed Opportunities||
+|        |a) Closed Opportunities Item List|Data Scrap and write to Excel-file|
+|        |b)	Extract Item Details - Reference from Item-List|Data Scrap and write to Excel-file|
+| 5.     |Email Excel-file to Specific Individual||
+|        |a) Enter Specific Email Address|Input Dialog|
+|        |b)	Extract Item Details - Reference from Item-List|SMTP Send|
 
 <img align="left" src="ProcessDefinition.jpg">
 
