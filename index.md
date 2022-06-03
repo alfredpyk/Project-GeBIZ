@@ -57,11 +57,6 @@ The team had several issues in Scrap and/or GetText of the GeBIZ website, such a
 |        |iii.	Keyword returning items with “Corrigendum”, publish of “corrected info” – hence upsetting consistency of display table/s (throw UiPath of its normal scrap)|This is part of GeBIZ in handling publish- “corrected info”, but may be resolve in using different scraping techniques.|
 | d)     |Having to handle “Logout” of GeBIZ when task/s completed|Proper logout when session is completed.|
 
-<img align="left" src="TestonException.jpg">
-
-
-
-
 ## f) What Platform
 Team Madagascar will only focus on:
 -	A Window-base desktop; 
