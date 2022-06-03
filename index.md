@@ -114,6 +114,42 @@ Given above context,
 <img align="left" src="SolutionDesign.jpg">
 
 # 4. Challenges
+
+|**Aspects**  |**Description**                |**Remarks**            |
+|:------------|:------------------------------|:----------------------|
+|A. Human/Team|There were several challenges faced by the team. It was obvious from day-one that the team is makeup of members with different levels of technical and literal capacities, and most of all willingness, agendas and aptitudes.|Applying of open-discussion and voting were excellent techniques in assisting team in moving forward and progressing with the project.|
+|             |On first day of project-brief four participants and second week another one (remaining 3) had dropout (found job opportunities) and team memberships had to be rearranged to makeup two balanced team. This creating issues with team dynamics and morale – breaking confidence and enthusiasm.|This is not helpful, taking into consideration of above item. It was good to have several public-holidays and in-between modules (Team Leadership and Career-Level-Up) breaks giving time for team members to work through issues.|
+|             |In week-3 another dropout, 2 members remaining. It was appreciated that the dropping out members to complete all tasks before handing over.|This was another setback, as there were much to do for remaining members.|
+|B. Schedule  |Owing the project was arranged/organized (allowing dropouts) and to how information (project scope, specifications and outcome expected) were disseminated to participants, making planning rather difficult and changes to workload (efforts, resources, etc.)|Refer to several changes in schedules/ gantt chart|
+|C. Technical |UiPath-Studio
+As this is first time all participants have just learnt UiPath-Studio, it was difficult apply this on real project.
+|It was good to have team members with already background and/or interest in “programming” for team to resolve technical difficulties.|
+|             |GeBIZ website
+Furthermore, the GeBIZ website is not clearly structured for data-scrapping to apply easily.
+|Team members need to spend time and efforts in applying several go-around problem solving technics to overcome difficulties.|
+|             |GitHub and Git-Pages
+During “Training Phase” of RPA-UiPath-Studio, was the team first encounter of GitHub, lessons was focused more on version control and little understanding of the GitHub platform and its features. Challenges in learning about and further applying/use of:
+-	GitHub for team-collaboration
+-	Git-Pages for development website
+|Self-motivated and learning of new skills|
+
+
+
+|        |a) Call GeBIZ on Browser       |https://gebiz.gov.sg   |
+|        |b) Credential Manager          |SingPass (secured)     |
+|        |c) Enter Keyword               |Input Dialog           |
+|        |d) Open/ Closed Opportunities  |Multiple Choice        |
+| 2.     |Open Opportunities             |                       |
+|        |a)	Extract Open Opportunities Item List|Data Scrap and write to Excel-file|
+|        |b)	Extract Open Opportunities Item Details - Reference from Item-List|Data Scrap and write to Excel-file|
+| 3.     |Download All "Tender Documents"|Save to Download/ specific location|
+| 4.     |Closed Opportunities||
+|        |a) Closed Opportunities Item List|Data Scrap and write to Excel-file|
+|        |b)	Extract Item Details - Reference from Item-List|Data Scrap and write to Excel-file|
+| 5.     |Email Excel-file to Specific Individual||
+|        |a) Enter Specific Email Address|Input Dialog|
+|        |b)	Extract Item Details - Reference from Item-List|SMTP Send|
+
 <img align="left" src="Challenges.jpg">
 
 # 5. Time/Money/Lives Savings
