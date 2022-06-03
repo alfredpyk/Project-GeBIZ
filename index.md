@@ -150,7 +150,6 @@ With time constraint, the team would make the following recommendations for futu
 
 ## C.	Madagascar's Project 1 - GeBIZ Reports
 
-
 <object data="ProjectGeBIZ.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="ProjectGeBIZ.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="ProjectGeBIZ.pdf">Download PDF</a>.</p>
@@ -161,12 +160,17 @@ With time constraint, the team would make the following recommendations for futu
 
 <a href="ProjectProgressGeBIZ.pdf" download="ProjectGeBIZ.pdf">Download Madagascar's Weekly Project1 Progression Report</a>
 
-## D. Video Demo
-1. MP4 - Streaming Recording of "Data Scrap on Open Opportunities" - with keyword "marine"
-   a) Capturing its Reference-index of all Open Opportunities in a Excel-file
-   b) Extract individually of title/s of all Open Opportunities
-       - Detail information of each Reference-Index
-       - Download ALL necessary documents for the tender
-<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (Marine_Open_Listing_Download.mp4>
+
+## D. GitHub Repository - https://github.com/alfredpyk/Project-GeBIZ
+
+## E.	Git-Pages - https://alfredpyk.github.io/Project-GeBIZ/
+
+## F. Video Demo - MP4 (Streaming Recording)
+1. "Open Opportunities" - with keyword "marine"
+    a) Capturing each Reference-index of all Open Opportunities into an Excel-file
+    b) On each items/ titles extract individually of necessary details
+       - Details as Agreed/ Requested
+       - As this is an "Open Opportunities", Download ALL necessary documents for the tender
+    <Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (Marine_Open_Listing_Download.mp4>
 
 2. 
