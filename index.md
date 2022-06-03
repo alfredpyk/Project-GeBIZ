@@ -127,7 +127,12 @@ Given above context,
 
 
 # 5. Time/Money/Lives Savings
-<img align="left" src="TimeMoneyLives.jpg">
+|**S/N** |**Item**        |**$**                       |**Remarks                |
+|-----|:------------------|:---------------------------|:------------------------|
+| 1.  |Cost of Development|S$1,500 - 2,000|Such typical projects/jobs, on software development market average about 5 days and costing between S$1,500 - 2,000.|
+| 2.  |Saving of time/$   |If the solution-system is utilized by 2-5 persons (person-hour slaughtering through the gebiz.gov.sg), this will be multiply in accordance to each person x2-5;|The “time/ money” the solution saves could expand and multiply in accordance to functions and capabilities of the solution system.|
+|     |                   |If the solution-system has added functions, such as in dashboards and data analytics, it would further provide multitudes of insight-knowledge to groups-in-needs.||
+| 3.  |                   |||
 
 # 6. Future Improvement
 With time constraint, the team would make the following recommendations for future improvements:
