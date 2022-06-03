@@ -55,6 +55,7 @@ The team had several issues in Scrap and/or GetText of the GeBIZ website, such a
 |        |iii.	Keyword returning items with “Corrigendum”, publish of “corrected info” – hence upsetting consistency of display table/s (throw UiPath of its normal scrap)|This is part of GeBIZ in handling publish- “corrected info”, but may be resolve in using different scraping techniques.|
 | d)     |Having to handle “Logout” of GeBIZ when task/s completed|Proper logout when session is completed.|
 
+
 ## f) What Platform
 Team Madagascar will only focus on:
 -	A Window-base desktop; 
@@ -63,20 +64,22 @@ Team Madagascar will only focus on:
 -	If time permits, may be built upon UiPath-Orchestrator for “Unattended/Attended/Hybrid” implementation/s.
 -	Email system for sending specific reports/ info to targeted project-managers
 
+
 ## g) GitHub and GitHub-Pages
 During studies period (module on RPA-UiPath), the GitHub platform was introduced as a version control system and it allows for seamless collaboration with necessary controls over security, integrity and tracking of development of projects. It allows one to work together on projects from anywhere.
 Team Madagascar saw the usefulness and decided to use it for the development and documentation of our Project-GeBIZ, so as to learn more of its extend and benefits. Here are some main benefits of using GitHub:
 1.	It makes it easy for participants to contribute to the project, nevertheless, owing to its comprehensiveness and complexity, the team struggled through a steep-learning-curve;
 2.	Documentation. By using GitHub, team Madagascar documented:
--	Team members are able to learn about tracking and observing the direction of development;
--	The UiPath solution is explained on its in-built README.md
--	Blog. “GitHub-Pages” provides the facilities, from the GitHub repository (per project) for editing and pushing changes live on Project-Blog site. 
+   -	Team members are able to learn about tracking and observing the direction of development;
+   -	The UiPath solution is explained on its in-built README.md
+   -	Blog. “GitHub-Pages” provides the facilities, from the GitHub repository (per project) for editing and pushing changes live on Project-Blog site. 
 3.	Showcase of work. Team Madagascar is able to showcase the project during presentation.
 4.	Markdown. Team Madagascar is able to further our learning on the Markdown language/ system and for future development purposes;
 5.	GitHub is a Repository. It is a repository and a good one too, but not sure about the exposure and being out there in front of the public. Nevertheless excellent exposure team Madagascar and members on one of the largest software coding communities;
 6.	Track changes in code (in our case the .xaml and project entities) across versions. When multiple people collaborate on a project, it’s hard to keep track revisions—who changed what, when, and where those files are stored. GitHub takes care of this problem by keeping track of all the changes that have been pushed to the repository, with a version history of the code so that previous versions are not lost with every iteration.
 (posed some difficulties for Team Madagascar member as beginners) 
-7.	Integration Options. It works well with UiPath-Studio, team Madagascar is able to publish UiPath-Studio solution on Open-platform, and yet able to access directly on individual members desktop development UiPath-Studio
+7.	Integration Options. It works well with UiPath-Studio, team Madagascar is able to publish UiPath-Studio solution on Open-platform, and yet able to access directly on individual members desktop development UiPath-Studio.
+
 
 # 2. Challenge Statement: As-Is
 Given above context,
