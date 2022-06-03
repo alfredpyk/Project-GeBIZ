@@ -12,7 +12,6 @@ Projects are the lifeblood of many enterprises and they are often issued as tend
 GeBIZ is Singapore Government's one-stop e-procurement portal. Major public sector's such as Housing and Development Board, Judiciary-Sepreme Court, Land Transport Authority, etc. post their invitations for opportunities here. There are Procurement Categories such as Administration & Training, Consruction, Civi Engineering, etc.
 
 Suppliers can search (using keyword/s and/or industry) for government procurement opportunities such as "Open" (Today, Past 2 days or Past 7 days) - Tenders, Quotations and Qualifications; Closed (Pending Award, Awarded, Cancelled or No Award) - Respondents, Bidding Prices and Awards; download opportunities requirement specifications, details on briefing and documents, and submit (both manual or digital submission types) their bids online.
-
  
 # 1. Design Thinking
 Approach project from 2 prongs and converging to one after week-1:
@@ -71,7 +70,18 @@ Given above context,
 
 
 # 3. Process-Solution
-Details 
+Final Solution 
+|**S/N**|**Function/ Sub-Function**    |**Remarks**           |
+|-------|------------------------------|----------------------|
+| 1.    |Start/ Initiation             |                      |
+|       |a) Call GeBIZ on Browser      |https://gebiz.gov.sg  |
+|       |b) Credential Manager         |SingPass (secured)    |
+|       |c) Enter Keyword              |Input Dialog          |
+|       |d) Open/ Closed Opportunities |Multiple Choice       |
+| 2.    |Open Opportunities            |                      |
+|       |a)	Extract Open Opportunities Item List      |Data Scrap and write to Excel-file|
+|       |b)	Extract Open Opportunities Item Details - Reference from Item-List         |Data Scrap and write to Excel-file    |
+| 3.    |Download All "Tender Documents"            |Save to Download/ specific location|
 
 
 <img align="left" src="ProcessDefinition.jpg">
