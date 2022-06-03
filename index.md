@@ -134,11 +134,13 @@ Given above context,
 |     |                   |If the solution-system has added functions, such as in dashboards and data analytics, it would further provide multitudes of insight-knowledge to groups-in-needs.|Added Saving of time/$|
 
 # 6. Future Improvement
-With time constraint, the team would make the following recommendations for future improvements:
-1.	As it may not be necessary to login to GeBIZ, the login facilities may be left later when necessary, such as when required for downloading documents, submission of tender, etc.
-2.	The application may recognise areas of interest with departments, managers and/or individuals; and direct email/ channel information to them, that is controlled receivers of email with defined scopes; and building of the knowledgebase;
-3.	With ongoing scraping (probably weekly), a working dashboard/s displaying necessary/ segmented information view by both the company and/or control individuals on scopes of projects for monitoring and tracking purposes; and
-4.	This project could be extended to data analytics and dashboarding of information scrapped.
+With the given time constraint, the team would make the following recommendations for future improvements:
+1.	Current implementation does not take into consideration on whether if it may or may not be necessary to login to GeBIZ or not, probably an improvement is to include this consideration and its aspects on invoking the login facilities be left when necessary, such as when required for downloading documents, submission of tender, etc. – further consideration on functions and user/s.
+2.	As of it is, the implementation/ application only takes inputs on keyword/s and has no intelligence whatsoever, future improvement could recognises areas of interest with individuals, departments, and/or managers; and direct email/ channel information to them, with controlled receivers of email of defined scope/s; and the building of the desired knowledgebase;
+3.	There may be need for timely ongoing scrap/s (probably weekly);
+4.	As accumulated details become available, a working dashboard/s could display necessary/ segmented information view by both the company and/or control individuals on scopes of projects for monitoring and tracking purposes;
+5.	Hence, incorporating and/or integrated to extended to data analytics and dashboarding of knowledge information system
+
 
 # 7. Reference
 ## A. As per SCT 11 Project 1 Detailed Brief Apr 2022 Final (dated 27 Apr 2022), Slide-6
