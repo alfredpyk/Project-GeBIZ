@@ -116,14 +116,14 @@ Given above context,
 
 |**Aspects**  |**Description**                |**Remarks**            |
 |:------------|:------------------------------|:----------------------|
-|A. Human/Team|Different levels of technical and literal capacities, and most of all willingness, agendas and aptitudes|Apply open-discussion and voting were excellent techniques in assisting in moving forward and progressing. Carrying on thus far or not so far, is mainly about contribution and not “dragging each other to failure,” but completing tasks on hand.|
-|Team of 4 to 3|Not helpful. Appreciated the several public-holidays and in-between modules (Team Leadership and Career-Level-Up) breaks providing slack-time for team to work through issues.|This is not helpful, taking into consideration of above item. It was good to have several public-holidays and in-between modules (Team Leadership and Career-Level-Up) breaks giving time for team members to work through issues.|
-|Team of 3 to 2|Another setback, as there were much to do for remaining members.|
+|A. Human/ Team|Different levels of technical and literal capacities, and most of all willingness, agendas and aptitudes|Apply open-discussion and voting were excellent techniques in assisting in moving forward and progressing. Carrying on thus far or not so far, is mainly about contribution and not “dragging each other to failure,” but completing tasks on hand.|
+|             |Team of 4 to 3|Not helpful. Appreciated the several public-holidays and in-between modules (Team Leadership and Career-Level-Up) breaks providing slack-time for team to work through issues.|
+|             |Team of 3 to 2|Another setback, as there were much to do for remaining members.|
 |B. Schedule  |Unclear specification and changes|Team made adjustment, refer to changes and evolving schedules.|
-|C. Technical |UiPath-Studio: As this is first time all participants have just learnt UiPath-Studio, it was difficult apply this on real project.|It was good to have team members with already background and/or interest in “programming” for team to resolve technical difficulties.|
-|             |GeBIZ website: Furthermore, the GeBIZ website is not clearly structured for data-scrapping to apply easily.|Team members need to spend time and efforts in applying several go-around problem solving technics to overcome difficulties 
-|             |GitHub and Git-Pages: During “Training Phase” of RPA-UiPath-Studio, was the team first encounter of GitHub, lessons was focused more on version control and little understanding of the GitHub platform and its features. Challenges in learning about and further applying/use of: a)	GitHub for team-collaboration; and b)	Git-Pages for development website|Self-motivated and learning of new skills|
-
+|C. Technical |UiPath-Studio|It was good to have team members with already background and/or interest in “programming” for team to resolve technical issues.|
+|             |GeBIZ website|Need more time and work in this domain.|
+|             |GitHub and Git-Pages|Self-motivated and learning of new skills|
+|             |SMTP on Google/ Yahoo|Use “less restrictive” server and Uipath SecureConn to “None”|
 
 # 5. Time/Money/Lives Savings
 |**S/N** |**Item**        |**$**                       |**Remarks                |
