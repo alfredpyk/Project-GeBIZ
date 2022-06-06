@@ -115,7 +115,8 @@ Given above context,
 |        |b)	Extract Item Details - Reference from Item-List|SMTP Send|
 
  
-The 3-Steps Final Solution
+## The 3-Steps Final Solution
+
 <img align="left" src="3StepFinalSol.jpg">
 
 # 4. Challenges
