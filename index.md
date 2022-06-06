@@ -113,6 +113,9 @@ Given above context,
 
 <img align="left" src="SolutionDesign.jpg"> 
 
+The 3-Steps Final Solution
+<img align="left" src="3StepFinalSol.jpg">
+
 # 4. Challenges
 
 |**Aspects**  |**Description**                |**Remarks**            |
