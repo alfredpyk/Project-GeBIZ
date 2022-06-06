@@ -90,7 +90,12 @@ Given above context,
 
 # 3. Process-Solution
 
-## Final Solution 
+<img align="left" src="ProcessDefinition.jpg">
+
+<img align="left" src="SolutionDesign.jpg"> 
+
+## Final Solution
+
 |**S/N** |**Function/ Sub-Function**     |**Remarks**            |
 |:-------|:------------------------------|:----------------------|
 | 1.     |Start/ Initiation              |                       |
@@ -108,10 +113,6 @@ Given above context,
 | 5.     |Email Excel-file to Specific Individual||
 |        |a) Enter Specific Email Address|Input Dialog|
 |        |b)	Extract Item Details - Reference from Item-List|SMTP Send|
-
-<img align="left" src="ProcessDefinition.jpg">
-
-<img align="left" src="SolutionDesign.jpg"> 
 
 The 3-Steps Final Solution
 <img align="left" src="3StepFinalSol.jpg">
