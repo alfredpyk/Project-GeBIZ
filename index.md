@@ -112,6 +112,7 @@ Given above context,
 <img align="left" src="ProcessDefinition.jpg">
 
 <img align="left" src="SolutionDesign.jpg"> 
+
 # 4. Challenges
 
 |**Aspects**  |**Description**                |**Remarks**            |
