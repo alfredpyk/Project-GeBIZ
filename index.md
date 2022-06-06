@@ -114,6 +114,7 @@ Given above context,
 |        |a) Enter Specific Email Address|Input Dialog|
 |        |b)	Extract Item Details - Reference from Item-List|SMTP Send|
 
+ 
 The 3-Steps Final Solution
 <img align="left" src="3StepFinalSol.jpg">
 
