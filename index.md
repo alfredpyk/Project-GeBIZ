@@ -133,6 +133,7 @@ Given above context,
 |             |SMTP on Google/ Yahoo|Use “less restrictive” server and Uipath SecureConn to “None”|
 
 # 5. Time/Money/Lives Savings
+
 |**S/N** |**Item**        |**$**                       |**Remarks                |
 |-----|:------------------|:---------------------------|:------------------------|
 | 1.  |Cost of Development|S$1,500 - 2,000|Such typical projects/jobs, on software development market average about 5 days and costing between S$1,500 - 2,000.|
