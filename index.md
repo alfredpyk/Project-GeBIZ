@@ -175,18 +175,22 @@ With the given time constraint, the team would make the following recommendation
 ## E.	Git-Pages - https://alfredpyk.github.io/Project-GeBIZ/
 
 ## F. Video Demo - MP4 (Streaming Recording)
-1. "Open Opportunities" - with keyword "marine"
-a) Capturing each Reference-index of all Open Opportunities into an Excel-file
-b) On each items/ titles extract individually of necessary details
-- Details as Agreed/ Requested
-- As this is an "Open Opportunities", Download ALL necessary documents for the tender
-<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (marine_Open_Listing_Download.mp4>
+1. 1.	"Open Opportunities" - with keyword “tree“ (3:37mins)
+   a) Capture each Reference-index of all Open Opportunities into an Excel-file
+   b)	On each items/ titles extract individually of necessary details
+      - Details as Agreed/ Requested
+      -	As “Open Opportunities", Download ALL necessary documents for the tender (Download)
+      -	Send email to specific (key in entry) user
+<Reference C:\Users\alfred\Documents\RACE-SCT-11\RACE-SCT-11 Project GeBIZ Madagascar\Flashback - Open_Tree_Email_Jun 6, 2022 13_33_13.mp4)
+(Captured using FlashbackExpress>
 
-2. "Closed Opportunities" - with keyword "hdb"
-a) Capturing each Reference-index of all Closed Opportunities into an Excel-file
-b) On each items/ titles extract individually of necessary details
-- Details as Agreed/ Requested
-- As this is a "Closed Opportunities", extraction purpose of info on Respondents, Bidding Prices, Awards, etc. are crucial of each items/ titles
-<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - 20220602  164511 (hdb_closed_Listing_Download.mp4>
+2. "Closed Opportunities" - with keyword “tree“ (7:33mins)
+   a)	Capture each Reference-index of all Closed Opportunities into an Excel-file
+   b)	On each items/ titles extract individually of necessary details
+      -	Details as Agreed/ Requested
+      -	As "Closed Opportunities", extraction purpose of info on Respondents, Bidding Prices, Awards, etc. are crucial of each items/ titles
+<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - Closed_Tree_NonEmail_Jun 6, 2022 13_45_02.mp4>
+(Capture using FlashbackExpress)
+
 
 
