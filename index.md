@@ -49,13 +49,13 @@ The team had several issues in Scrap and/or GetText of the GeBIZ website, such a
 
 |**Item** |**Test on Exception**         |**Remarks**            |
 |:-------|:------------------------------|:----------------------|
-| a)     |As data were not at all consistent/ structured accordingly;|Go around method/s in handling/ scrap.|
-| b)     |Accurate count of item/s as compared to actual, as next-page was not handled correctly (scraping only first page, missing out on remaining);|Cross-checking and corrected when necessary, for example on “hdb” returning 44 Open Opportunities items (10 items per page)|
-| c)     |There were needs to handle situations:||
+| a)     |As data on GeBiz were not present at all consistent and/or structured, it was difficult to scrap – making known testing-cases is crucial;|Had to use go-around method/s in handling/ scrap and conscious of errors.|
+| b)     |Accurate count of item/s scrap to actual, handling of next-page is sensitive and leading to missed and data accurately (chances of scraping only first page, missing out on remaining);|Cross-checking and corrective action taken on case-by-case when necessary, for example on “hdb” returning 44 Open Opportunities items scrapped on 10 items (only first page taken)|
+| c)     |Here are some test-cases requiring attentions:||
 |        |i.   When “Open” Opportunities with 0 (zero) listing;|Requires checking and handle according with dialogue of “no item found”.|
 |        |ii.	 When use of keyword such as “rpa” returns gibberish; and|Could return such item as “carpark”, in which consisting "rpa", hence added “ " to all search item.|
 |        |iii.	Keyword returning items with “Corrigendum”, publish of “corrected info” – hence upsetting consistency of display table/s (throw UiPath of its normal scrap)|This is part of GeBIZ in handling publish- “corrected info”, but may be resolve in using different scraping techniques.|
-| d)     |Having to handle “Logout” of GeBIZ when task/s completed|Proper logout when session is completed.|
+| d)     |Need to handle “Logout” of GeBIZ when task/s completed; etc.|Requires handling.|
 
 
 ## f) What Platform
