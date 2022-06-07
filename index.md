@@ -123,8 +123,8 @@ Given above context,
 
 # 4. Challenges
 
-|**Aspects**  |**Description**                |**Remarks**            |
-|:------------|:------------------------------|:----------------------|
+|**Aspects**   |**Description**                 |**Remarks**             |
+|:-------------|:-------------------------------|:-----------------------|
 |A. Human/ Team|Different levels of technical and literal capacities, and most of all willingness, agendas and aptitudes|Apply open-discussion and voting were excellent techniques in assisting in moving forward and progressing. Carrying on thus far or not so far, is mainly about contribution and not “dragging each other to failure,” but completing tasks on hand.|
 |             |Team of 4 to 3|Not helpful. Appreciated the several public-holidays and in-between modules (Team Leadership and Career-Level-Up) breaks providing slack-time for team to work through issues.|
 |             |Team of 3 to 2|Another setback, as there were much to do for remaining members.|
