@@ -54,7 +54,7 @@ The team had several issues in Scrap and/or GetText of the GeBIZ website, such a
 | c)     |Here are some test-cases requiring attentions:||
 |        |i.   When “Open” Opportunities with 0 (zero) listing;|Requires checking and handle according with dialogue of “no item found”.|
 |        |ii.	 When use of keyword such as “rpa” returns gibberish; and|Could return such item as “carpark”, in which consisting "rpa", hence added “ " to all search item.|
-|        |iii.	Keyword returning items with “Corrigendum”, publish of “corrected info” – hence upsetting consistency of display table/s (throw workflow on runtime error;|This is part of GeBIZ in handling publish- “corrected info”, but may be resolve in using different scraping techniques.|
+|        |iii.	Keyword returning items with “Corrigendum”, publish of “corrected info” – hence upsetting consistency of display table/s (throw workflow on runtime error);|This is part of GeBIZ in handling publish- “corrected info”, but may be resolve in using different scraping techniques.|
 | d)     |Need to handle “Logout” of GeBIZ when task/s completed; etc.|Requires handling.|
 
 
