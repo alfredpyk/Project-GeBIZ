@@ -179,16 +179,14 @@ With the given time constraint, the team would make the following recommendation
       - Details as Agreed/ Requested
       -	As “Open Opportunities", Download ALL necessary documents for the tender (Download)
       -	Send email to specific (key in entry) user
-<Reference C:\Users\alfred\Documents\RACE-SCT-11\RACE-SCT-11 Project GeBIZ Madagascar\Flashback - Open_Tree_Email_Jun 6, 2022 13_33_13.mp4)
-(Captured using FlashbackExpress>
+<Reference Flashback - Open_Tree_Email_Jun 6, 2022 13_33_13.mp4, Captured using FlashbackExpress>
 
 2. "Closed Opportunities" - with keyword “tree“ (7:33mins)
    a)	Capture each Reference-index of all Closed Opportunities into an Excel-file
    b)	On each items/ titles extract individually of necessary details
       -	Details as Agreed/ Requested
       -	As "Closed Opportunities", extraction purpose of info on Respondents, Bidding Prices, Awards, etc. are crucial of each items/ titles
-<Reference C:\Users\alfred\Videos\Flashback Express\Recordings\Flashback - Closed_Tree_NonEmail_Jun 6, 2022 13_45_02.mp4>
-(Capture using FlashbackExpress)
+<Reference Flashback - Closed_Tree_NonEmail_Jun 6, 2022 13_45_02.mp4, Capture using FlashbackExpress>
 
 
 
