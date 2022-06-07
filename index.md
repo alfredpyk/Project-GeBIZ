@@ -175,7 +175,7 @@ With the given time constraint, the team would make the following recommendation
 ## E.	Git-Pages - https://alfredpyk.github.io/Project-GeBIZ/
 
 ## F. Video Demo - MP4 (Streaming Recording)
-1. 1.	"Open Opportunities" - with keyword “tree“ (3:37mins)
+1. "Open Opportunities" - with keyword “tree“ (3:37mins)
    a) Capture each Reference-index of all Open Opportunities into an Excel-file
    b)	On each items/ titles extract individually of necessary details
       - Details as Agreed/ Requested
