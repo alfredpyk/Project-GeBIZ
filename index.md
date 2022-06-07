@@ -47,8 +47,8 @@ The development will be built in parts/ modules integrating to form a system of 
 
 The team had several issues in Scrap and/or GetText of the GeBIZ website, such as:
 
-|**Item** |**Test on Exception**         |**Remarks**            |
-|:-------|:------------------------------|:----------------------|
+|**Item** |**Test on Exception**          |**Remarks**            |
+|:--------|:------------------------------|:----------------------|
 | a)     |As data on GeBiz were not present at all consistent and/or structured, it was difficult to scrap – making known testing-cases is crucial;|Had to use go-around method/s in handling/ scrap and conscious of errors.|
 | b)     |Accurate count of item/s scrap to actual, handling of next-page is sensitive and leading to missed and data accurately (chances of scraping only first page, missing out on remaining);|Cross-checking and corrective action taken on case-by-case when necessary, for example on “hdb” returning 44 Open Opportunities items scrapped on 10 items (only first page taken)|
 | c)     |Here are some test-cases requiring attentions:||
