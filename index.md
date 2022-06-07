@@ -44,7 +44,9 @@ The development will be built in parts/ modules integrating to form a system of 
 <img align="left" src="Prototype.jpg">
 
 ## e) Test - On Exception
+
 The team had several issues in Scrap and/or GetText of the GeBIZ website, such as:
+
 |**Item** |**Test on Exception**         |**Remarks**            |
 |:-------|:------------------------------|:----------------------|
 | a)     |As data were not at all consistent/ structured accordingly;|Go around method/s in handling/ scrap.|
